@@ -1,7 +1,7 @@
 # Script para criar arquivos vazios
 
 # Lista de nomes dos arquivos a serem criados
-files = ["inex.html", "style.css", "main.js"]
+files = ["index.html", "style.css", "main.js"]
 
 # Cria cada arquivo vazio
 for filename in files:
